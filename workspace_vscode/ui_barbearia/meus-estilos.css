@@ -1,4 +1,5 @@
 body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 
 .principal{
@@ -7,6 +8,7 @@ body{
 
 .beneficios {
     background: #fff;
+    padding: 20px;
 }
 p {
     text-align: center;
@@ -34,4 +36,16 @@ h1{
 
 #imagembeneficio {
     width: 50%;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+}
+
+h2{
+    text-align: center;
 }
